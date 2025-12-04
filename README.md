@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Usman Saleem</h1>
 <h3 align="center">A full stack developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bad-boy5&label=Profile%20views&color=0e75b6&style=flat" alt="bad-boy5" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bad-boy5&label=Profile%20views&color=0e75b6&style=flat" alt="profile pic" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bad-boy5" alt="bad-boy5" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bad-boy5" alt="profile pic" /></a> </p>
 
 - 🌱 I’m currently learning **TypeScript , NextJs , ReactNative**
 
